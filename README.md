@@ -2,16 +2,17 @@
 
 A **fully responsive clone** of the [Spylt](https://spylt.com) website built using **React**, **Tailwind CSS**, and **GSAP** for smooth animations and stunning visuals.
 
+> ⚠️ **Disclaimer:** This project is created **for educational purposes only**. All assets, design, and content belong to their respective owners.
+
 ![Spylt Banner](./assets/preview/banner.png)
 
 ---
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-green?style=for-the-badge)](https://your-live-site-url.vercel.app)
+[![Live Demo](https://spylt-vite.vercel.app/)
 
 ---
-
 
 ---
 
@@ -41,16 +42,19 @@ A **fully responsive clone** of the [Spylt](https://spylt.com) website built usi
 ```
 Spylt-Clone/
 │
-├── public/           # Static files (images, fonts, etc.)
-│   └── favicon.ico
+├── public/               # Static files (images, fonts, videos, etc.)
+│   ├── images/            # Public images
+│   ├── videos/            # Public videos
+│   └── fonts/             # Public fonts
 │
 ├── src/
-│   ├── assets/       # Images, videos, icons
-│   ├── components/   # Reusable components (Navbar, Footer, etc.)
-│   ├── pages/        # Individual page components
-│   ├── hooks/        # Custom React hooks
-│   ├── styles/       # Global Tailwind and custom styles
-│   └── App.jsx       # Main React component
+│   ├── assets/            # Project-specific images, videos, icons
+│   ├── components/        # Reusable UI components (Navbar, Footer, etc.)
+│   ├── constants/         # Constant data like configs and static content
+│   ├── pages/             # Individual page components
+│   ├── hooks/             # Custom React hooks
+│   ├── styles/            # Global Tailwind and custom styles
+│   └── App.jsx            # Main React component
 │
 ├── package.json
 ├── tailwind.config.js
@@ -95,7 +99,6 @@ Contributions are always welcome!
 5. Open a Pull Request
 
 ---
-
 
 ## 🌐 Connect
 
