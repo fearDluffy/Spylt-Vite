@@ -10,7 +10,9 @@ A **fully responsive clone** of the [Spylt](https://spylt.com) website built usi
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://spylt-vite.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-green?style=for-the-badge)](https://spylt-vite.vercel.app/)
+
 
 ---
 
